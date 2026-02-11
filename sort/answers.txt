@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: When used sorted10000.txt perfomed the time of 0m0.073s in comparison with sort2 with 0m0.110s and sort3 with 0m0.040s.
+The bubble method performs better when the list is already sorted.
+
+sort2 uses: merge sort
+
+How do you know?: Has the fastest time in comparison with sort1 and sort3 with reversed10000.txt and random10000.txt.
+
+sort3 uses: selection sort
+
+How do you know?: Has the slowest time in comparison with sort1 and sort2.
