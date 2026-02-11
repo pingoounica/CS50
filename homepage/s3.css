@@ -1,0 +1,62 @@
+.fa {
+    padding: 0px;
+    font-size: 56px;
+    width: 90px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+    border:none
+  }
+
+  .fa:hover {
+      color: grey;
+  }
+
+  .fa-facebook {
+    background: none;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: none;
+    color: white;
+  }
+
+  .fa-google {
+    background: none;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: none;
+    color: white;
+  }
+
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: none;
+    color: white;
+  }
+
+
+
+  .fa-rss {
+    background: #ff6600;
+    color: white;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 23%;
+  }
+
+
+  </style>
+  </head>
+  <body>

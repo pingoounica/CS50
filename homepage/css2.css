@@ -1,0 +1,28 @@
+.container {<!--  www .  j  a  v  a 2  s .  c  om-->
+    width:100%;
+    margin: 200px 0 40px;
+}
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  .bg-dark{
+    position:fixed;
+    bottom:0;
+  }
+
+  aside.col-md {
+    flex: 0 1 20rem;
+    overflow-y: auto;
+    position: sticky;
+    z-index: 1019;
+}
+  aside.col-md {
+    padding: 2rem 2rem;
+}
+
